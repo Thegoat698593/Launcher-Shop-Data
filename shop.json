@@ -28,8 +28,8 @@
     {
       "type": "AthenaCharacter",
       "devName": "RenegadeRaider",
-      "id": "ATHENACHARACTER:CID_029_Athena_Commando_F",
-      "item": "CID_029_Athena_Commando_F",
+      "id": "ATHENACHARACTER:CID_355_Athena_Commando_M_Farmer",
+      "item": "CID_355_Athena_Commando_M_Farmer",
       "name": "Renegade Raider",
       "description": "Rare renegade raider outfit.",
       "items": [],
