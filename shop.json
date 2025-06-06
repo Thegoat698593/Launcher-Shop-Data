@@ -5,16 +5,16 @@
     {
       "type": "AthenaCharacter",
       "devName": "DefaultCommando",
-      "id": "ATHENACHARACTER:CID_349_Athena_Commando_M_Banana",
-      "item": "CID_349_Athena_Commando_M_Banana",
-      "name": "Peely",
+      "id": "ATHENACHARACTER:CID_366_Athena_Commando_M_Tropical",
+      "item": "CID_366_Athena_Commando_M_Tropical",
+      "name": "Marino",
       "description": "A bannana skin.",
       "items": [],
       "price": 800,
       "singleprice": 800,
       "variants": [
-        { "name": "Commando Blue" },
-        { "name": "Commando Red" }
+        { "name": "Commando" },
+        { "name": "Commando" }
       ],
       "metaInfo": [],
       "BundlePath": "",
@@ -92,16 +92,16 @@
     {
       "type": "AthenaCharacter",
       "devName": "Pirate",
-      "id": "ATHENACHARACTER:CID_358_Athena_Commando_M_Aztec",
-      "item": "CID_358_Athena_Commando_M_Aztec",
+      "id": "ATHENACHARACTER:CID_355_Athena_Commando_M_Farmer",
+      "item": "CID_355_Athena_Commando_M_Farmer",
       "name": "Key",
       "description": "Rule the seas.",
       "items": [],
       "price": 1500,
       "singleprice": 1500,
       "variants": [
-        { "name": "Pirate Queen Gold" },
-        { "name": "Pirate Queen Silver" }
+        { "name": "Pirate" },
+        { "name": "Pirater" }
       ],
       "metaInfo": [],
       "BundlePath": "",
