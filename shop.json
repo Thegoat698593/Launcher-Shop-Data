@@ -1,0 +1,608 @@
+{
+  "expiration": "2025-06-03T17:00:00.000Z",
+  "cacheExpire": "2025-06-03T16:57:14.490Z",
+  "ShopItems": {
+    "Weekly": [
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "VQKKxim7gNYEQ+Qh2tVeIKvgHktdahf+",
+        "item": "AthenaCharacter:CID_053_Athena_Commando_M_SkiDude",
+        "name": "Alpine Ace",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories",
+            "item": "AthenaBackpack:BID_006_SkiDude",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "QT4DZKI0ffoHzR3wnXudznjEUDl0ZtOA",
+        "item": "AthenaCharacter:CID_054_Athena_Commando_M_SkiDude_USA",
+        "name": "Alpine Ace (USA)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (USA)",
+            "item": "AthenaBackpack:BID_007_SkiDude_USA",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "CFz/LK5LYUN1xfy8DuBDl94xeH2nuaQ3",
+        "item": "AthenaCharacter:CID_055_Athena_Commando_M_SkiDude_CAN",
+        "name": "Alpine Ace (CAN)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (CAN)",
+            "item": "AthenaBackpack:BID_008_SkiDude_CAN",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "vXhGuPIcg9oN0M/U3Vlx4xpu0TcaFu5q",
+        "item": "AthenaCharacter:CID_056_Athena_Commando_M_SkiDude_GBR",
+        "name": "Alpine Ace (GBR)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (GBR)",
+            "item": "AthenaBackpack:BID_009_SkiDude_GBR",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "iz3gGtE8FYkuMQiqTUn6FqdshHyBd8gX",
+        "item": "AthenaCharacter:CID_057_Athena_Commando_M_SkiDude_FRA",
+        "name": "Alpine Ace (FRA)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (GBR)",
+            "item": "AthenaBackpack:BID_009_SkiDude_GBR",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "Bf4N4kN3XsPRPEJ6oQ1TRkJMRy627bk+",
+        "item": "AthenaCharacter:CID_058_Athena_Commando_M_SkiDude_GER",
+        "name": "Alpine Ace (GER)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (GER)",
+            "item": "AthenaBackpack:BID_011_SkiDude_GER",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "36I7/DA9wVCPH4jK8Hrx0idiy/okYapy",
+        "item": "AthenaCharacter:CID_059_Athena_Commando_M_SkiDude_CHN",
+        "name": "Alpine Ace (CHN)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (CHN)",
+            "item": "AthenaBackpack:BID_012_SkiDude_CHN",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "WkTmyebbLAmtaAMYd9AlVgEZruwW48Ld",
+        "item": "AthenaCharacter:CID_060_Athena_Commando_M_SkiDude_KOR",
+        "name": "Alpine Ace (KOR)",
+        "description": "So Aerodynamic!",
+        "items": [
+          {
+            "name": "Alpine Accessories (KOR)",
+            "item": "AthenaBackpack:BID_013_SkiDude_KOR",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 1"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "WIebxlFNb53nfXiHVkcTVF/HwqywjkM+",
+        "item": "AthenaCharacter:CID_061_Athena_Commando_F_SkiGirl",
+        "name": "Mogul Master",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag",
+            "item": "AthenaBackpack:BID_014_SkiGirl",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "XPaG+jxV51h1DtRVIIJeJ1vhRhCd/PG9",
+        "item": "AthenaCharacter:CID_062_Athena_Commando_F_SkiGirl_USA",
+        "name": "Mogul Master (USA)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (USA)",
+            "item": "AthenaBackpack:BID_015_SkiGirl_USA",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "zMKSRxM9KUPePz2v6t5hKp3GWgVjDWST",
+        "item": "AthenaCharacter:CID_063_Athena_Commando_F_SkiGirl_CAN",
+        "name": "Mogul Master (CAN)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (CAN)",
+            "item": "AthenaBackpack:BID_016_SkiGirl_CAN",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "kIRFD/T09NZGTKX8T23huvWgcVS9d5VO",
+        "item": "AthenaCharacter:CID_064_Athena_Commando_F_SkiGirl_GBR",
+        "name": "Mogul Master (GBR)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (GBR)",
+            "item": "AthenaBackpack:BID_017_SkiGirl_GBR",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "AI76v2LRV4QFeu9D2G+rp/EzGaqzNM06",
+        "item": "AthenaCharacter:CID_065_Athena_Commando_F_SkiGirl_FRA",
+        "name": "Mogul Master (FRA)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (FRA)",
+            "item": "AthenaBackpack:BID_018_SkiGirl_FRA",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "Xo6b5td1Ipzm147fEu/VLKipPmKNu0hL",
+        "item": "AthenaCharacter:CID_066_Athena_Commando_F_SkiGirl_GER",
+        "name": "Mogul Master (GER)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (GER)",
+            "item": "AthenaBackpack:BID_019_SkiGirl_GER",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "EV0h6xY/pMDw1kGzJujqTrzy+5c2AnTb",
+        "item": "AthenaCharacter:CID_067_Athena_Commando_F_SkiGirl_CHN",
+        "name": "Mogul Master (CHN)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (CHN)",
+            "item": "AthenaBackpack:BID_020_SkiGirl_CHN",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "xSY7r6Y5mQlMagSIVClSQJkUJ+M13Q+g",
+        "item": "AthenaCharacter:CID_068_Athena_Commando_F_SkiGirl_KOR",
+        "name": "Mogul Master (KOR)",
+        "description": "Carve through the competition.",
+        "items": [
+          {
+            "name": "Mogul Ski Bag (KOR)",
+            "item": "AthenaBackpack:BID_021_SkiGirl_KOR",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1500,
+        "singleprice": 1500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [
+          "Panel 2"
+        ],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "n4F1jdLVgIIixzMmkrMfoCl0jls-AtlgyN8d2qTD",
+        "item": "AthenaGlider:Glider_ID_060_Exercise",
+        "name": "Windbreaker",
+        "description": "Break the wind.",
+        "items": [],
+        "price": 500,
+        "singleprice": 500,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "uncommon",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      }
+    ],
+    "Daily": [
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "5UUrRGjYz95RPWETyAujoSXErJHGplgB9ubpDBD0",
+        "item": "AthenaCharacter:Character_Skirmish_Nexara",
+        "name": "Sash Sergeant",
+        "description": "Set up camp and start a firefight.",
+        "items": [],
+        "price": 1200,
+        "singleprice": 1200,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "rare",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "AthZmHdwrJ98hKwaqw6r51aQ8fw6jDmzZsv-pfsE",
+        "item": "AthenaCharacter:CID_395_Athena_Commando_F_ShatterFly",
+        "name": "Dream",
+        "description": "Light breaks through.",
+        "items": [
+          {
+            "name": "Shattered Wing",
+            "item": "AthenaBackpack:BID_256_ShatterFly",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 1200,
+        "singleprice": 1200,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "rare",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "bMEqv8aasUroy-Wvw-nB-xHirFFrVJ8M1oRFfzpl",
+        "item": "AthenaDance:EID_GlowstickDance",
+        "name": "Glowsticks",
+        "description": "Make it glow.",
+        "items": [],
+        "price": 800,
+        "singleprice": 800,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "epic",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "ZmoYXmt0ym4jbbr7mrWeYECKrfkAZ82gyUKz4cKH",
+        "item": "AthenaCharacter:CID_011_Athena_Commando_M",
+        "name": "Scout",
+        "description": "Uncommon scout outfit.",
+        "items": [],
+        "price": 800,
+        "singleprice": 800,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "uncommon",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      },
+      {
+        "type": "Normal",
+        "devName": "",
+        "id": "a-rOKpkFw3uSgVs9WVahFjOHQGCgjLxHlukqUvLE",
+        "item": "AthenaCharacter:CID_314_Athena_Commando_M_Krampus",
+        "name": "Krampus",
+        "description": "Here comes anti-claus...",
+        "items": [
+          {
+            "name": "Brat Bag",
+            "item": "AthenaBackpack:BID_194_Krampus",
+            "description": "",
+            "variants": []
+          }
+        ],
+        "price": 2000,
+        "singleprice": 2000,
+        "variants": [],
+        "metaInfo": [],
+        "BundlePath": "",
+        "displayAssetPath": "",
+        "rarity": "legendary",
+        "categories": [],
+        "sortPriority": 0,
+        "catalogGroupPriority": 0,
+        "MinLevel": 0
+      }
+    ]
+  }
+}
