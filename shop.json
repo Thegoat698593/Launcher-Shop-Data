@@ -52,8 +52,8 @@
     {
       "type": "AthenaCharacter",
       "devName": "DefaultSoldier",
-      "id": "ATHENACHARACTER:CID_002_Athena_Commando_M_Default",
-      "item": "CID_002_Athena_Commando_M_Default",
+      "id": "ATHENACHARACTER:CID_354_Athena_Commando_M_MunitionsExpert",
+      "item": "CID_354_Athena_Commando_M_MunitionsExpert",
       "name": "Default Soldier",
       "description": "A default soldier skin.",
       "items": [],
