@@ -12,10 +12,6 @@
       "items": [],
       "price": 800,
       "singleprice": 800,
-      "variants": [
-        { "name": "Commando" },
-        { "name": "Commando" }
-      ],
       "metaInfo": [],
       "BundlePath": "",
       "displayAssetPath": "",
@@ -35,9 +31,6 @@
       "items": [],
       "price": 1200,
       "singleprice": 1200,
-      "variants": [
-        { "name": "Raider Green" }
-      ],
       "metaInfo": [
         { "key": "Series", "value": "RaiderSeries" }
       ],
@@ -99,10 +92,6 @@
       "items": [],
       "price": 1500,
       "singleprice": 1500,
-      "variants": [
-        { "name": "Pirate" },
-        { "name": "Pirater" }
-      ],
       "metaInfo": [],
       "BundlePath": "",
       "displayAssetPath": "",
