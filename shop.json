@@ -5,17 +5,15 @@
     {
       "type": "AthenaCharacter",
       "devName": "DefaultCommando",
-      "id": "ATHENACHARACTER:CID_001_Athena_Commando_F_Default",
-      "item": "CID_001_Athena_Commando_F_Default",
-      "name": "Default Commando",
-      "description": "A default commando skin.",
+      "id": "ATHENACHARACTER:CID_366_Athena_Commando_M_Tropical",
+      "item": "CID_366_Athena_Commando_M_Tropical",
+      "name": "Marino",
+      "description": "Tropical skin alr.",
       "items": [],
       "price": 800,
       "singleprice": 800,
       "variants": [
-        { "name": "Commando Blue" },
-        { "name": "Commando Red" }
-      ],
+        { "name": "Marino" },
       "metaInfo": [],
       "BundlePath": "",
       "displayAssetPath": "",
