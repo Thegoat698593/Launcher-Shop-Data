@@ -4,6 +4,7 @@
   "ShopItems": [
     {
       "type": "AthenaCharacter",
+      "typeDisplay": "Outfit",
       "devName": "DefaultCommando",
       "id": "ATHENACHARACTER:CID_399_Athena_Commando_F_AshtonBoardwalk",
       "item": "CID_399_Athena_Commando_F_AshtonBoardwalk",
@@ -23,6 +24,7 @@
     },
     {
       "type": "AthenaCharacter",
+      "typeDisplay": "Outfit",
       "devName": "RenegadeRaider",
       "id": "ATHENACHARACTER:CID_355_Athena_Commando_M_Farmer",
       "item": "CID_355_Athena_Commando_M_Farmer",
@@ -47,6 +49,7 @@
     },
     {
       "type": "AthenaCharacter",
+      "typeDisplay": "Outfit",
       "devName": "DefaultSoldier",
       "id": "ATHENACHARACTER:CID_354_Athena_Commando_M_MunitionsExpert",
       "item": "CID_354_Athena_Commando_M_MunitionsExpert",
@@ -67,6 +70,7 @@
     },
     {
       "type": "AthenaDance",
+      "typeDisplay": "Emote",
       "devName": "Floss",
       "id": "ATHENADANCE:EID_Floss",
       "item": "EID_Floss",
@@ -87,6 +91,7 @@
     },
     {
       "type": "AthenaCharacter",
+      "typeDisplay": "Outfit",
       "devName": "Pirate",
       "id": "ATHENACHARACTER:CID_372_Athena_Commando_F_Pirate01",
       "item": "CID_372_Athena_Commando_F_Pirate01",
