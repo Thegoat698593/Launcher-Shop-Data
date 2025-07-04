@@ -37,10 +37,10 @@
       "price": 1200,
       "singleprice": 1200,
       "variants": [
-        { "name": "Raider Green" }
+        { "name": "Midas" }
       ],
       "metaInfo": [
-        { "key": "Series", "value": "RaiderSeries" }
+        { "key": "Series", "value": "loop series" }
       ],
       "BundlePath": "",
       "displayAssetPath": "",
@@ -65,7 +65,7 @@
       "metaInfo": [],
       "BundlePath": "",
       "displayAssetPath": "",
-      "rarity": "Legendary",
+      "rarity": "loop series",
       "categories": ["Outfit"],
       "sortPriority": 1,
       "catalogGroupPriority": 0,
